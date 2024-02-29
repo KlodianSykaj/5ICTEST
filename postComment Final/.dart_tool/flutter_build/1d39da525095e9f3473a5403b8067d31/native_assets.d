@@ -1,0 +1,1 @@
+ /home/studente/Desktop/post_db/.dart_tool/flutter_build/1d39da525095e9f3473a5403b8067d31/native_assets.yaml: 

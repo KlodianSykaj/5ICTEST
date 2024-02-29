@@ -1,0 +1,4 @@
+#Thu Feb 29 10:29:16 CET 2024
+base.0=/home/studente/Desktop/5IC/postComment Final/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

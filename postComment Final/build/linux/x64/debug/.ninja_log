@@ -1,0 +1,106 @@
+# ninja log v5
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/libflutter_linux_gtk.so	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_engine.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_value.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_view.h	fc575d6dc84b3cb4
+0	11983	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	fc575d6dc84b3cb4
+0	11983	0	flutter/_phony_	fc575d6dc84b3cb4
+11984	12581	1708592467398471246	CMakeFiles/post_db.dir/flutter/generated_plugin_registrant.cc.o	1c7a0dcfb7fb7de0
+11983	12625	1708592467438479257	CMakeFiles/post_db.dir/main.cc.o	97573373ebb4b108
+11984	12665	1708592467478487269	CMakeFiles/post_db.dir/my_application.cc.o	81b487d79698dc8e
+12665	12846	1708592467662524125	intermediates_do_not_run/post_db	77fb9d65342a751c
+12846	12914	0	CMakeFiles/install.util	8a7c63432803bc3d
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/libflutter_linux_gtk.so	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_engine.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_value.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_view.h	fc575d6dc84b3cb4
+1	1487	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	fc575d6dc84b3cb4
+1	1487	0	flutter/_phony_	fc575d6dc84b3cb4
+1488	1857	1708592485520843061	CMakeFiles/post_db.dir/flutter/generated_plugin_registrant.cc.o	1c7a0dcfb7fb7de0
+1488	1883	1708592485544845052	CMakeFiles/post_db.dir/my_application.cc.o	81b487d79698dc8e
+1883	1998	1708592485660854670	intermediates_do_not_run/post_db	54e3f6d3c43ffa07
+1998	2062	0	CMakeFiles/install.util	8a7c63432803bc3d
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/libflutter_linux_gtk.so	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_engine.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_value.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_view.h	fc575d6dc84b3cb4
+2	3114	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	fc575d6dc84b3cb4
+2	3114	0	flutter/_phony_	fc575d6dc84b3cb4
+3115	3491	1708592927391094053	CMakeFiles/post_db.dir/flutter/generated_plugin_registrant.cc.o	1c7a0dcfb7fb7de0
+3115	3505	1708592927407094437	CMakeFiles/post_db.dir/my_application.cc.o	81b487d79698dc8e
+3505	3660	1708592927563098194	intermediates_do_not_run/post_db	54e3f6d3c43ffa07
+3660	3737	0	CMakeFiles/install.util	8a7c63432803bc3d
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/libflutter_linux_gtk.so	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_engine.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_value.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/fl_view.h	fc575d6dc84b3cb4
+1	1527	0	/home/studente/Desktop/5IC/postComment 3/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	fc575d6dc84b3cb4
+1	1527	0	flutter/_phony_	fc575d6dc84b3cb4
+1527	1894	1708592937135328725	CMakeFiles/post_db.dir/flutter/generated_plugin_registrant.cc.o	1c7a0dcfb7fb7de0
+1527	1927	1708592937167329496	CMakeFiles/post_db.dir/my_application.cc.o	81b487d79698dc8e
+1928	2042	1708592937287332386	intermediates_do_not_run/post_db	54e3f6d3c43ffa07
+2042	2107	0	CMakeFiles/install.util	8a7c63432803bc3d
