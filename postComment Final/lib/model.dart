@@ -17,6 +17,7 @@ class Post {
       childColumns: ['postId'],
       parentColumns: ['id'],
       entity: Post,
+      onDelete: ForeignKeyAction.cascade
     ),
   ],
 )
